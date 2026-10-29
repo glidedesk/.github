@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="profile/logo.png" width="128" alt="GlideDesk Logo">
+  <img src="https://raw.githubusercontent.com/glidedesk/.github/main/profile/logo.png" width="128" alt="GlideDesk Logo">
   <h1>GlideDesk</h1>
   <p><b>Lightweight, Zero-Latency Multi-Device Software KVM</b></p>
   <p>Share one mouse, keyboard, and clipboard seamlessly across <b>macOS</b>, <b>Windows</b>, <b>Linux</b>, and <b>Android</b>.</p>
