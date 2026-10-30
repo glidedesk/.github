@@ -5,7 +5,7 @@
   <p>Share one mouse, keyboard, and clipboard seamlessly across <b>macOS</b>, <b>Windows</b>, <b>Linux</b>, and <b>Android</b>.</p>
 
   <p>
-    <a href="https://github.com/glidedesk/glidedesk/releases/latest"><img src="https://img.shields.io/github/v/release/glidedesk/glidedesk?color=00c853&label=Release" alt="Latest Release"></a>
+    <a href="https://github.com/glidedesk/GlideDesk/releases/latest"><img src="https://img.shields.io/github/v/release/glidedesk/GlideDesk?color=00c853&label=Release" alt="Latest Release"></a>
     <img src="https://img.shields.io/badge/Tauri-v2.0-24c8db" alt="Tauri v2">
     <img src="https://img.shields.io/badge/Rust-1.78%2B-dea584" alt="Rust">
     <img src="https://img.shields.io/badge/macOS%20%7C%20Windows%20%7C%20Linux%20%7C%20Android-Supported-blue" alt="Cross Platform">
@@ -32,16 +32,16 @@ GlideDesk re-engineers the software KVM experience from the ground up to solve t
 
 | Platform | Quick Command |
 | :--- | :--- |
-| **macOS** | `curl -fsSL https://raw.githubusercontent.com/glidedesk/glidedesk/main/mac/scripts/install.sh \| bash` |
-| **Windows** | `irm https://raw.githubusercontent.com/glidedesk/glidedesk/main/windows/scripts/install.ps1 \| iex` |
-| **Linux** | `curl -fsSL https://raw.githubusercontent.com/glidedesk/glidedesk/main/linux/scripts/install.sh \| bash` |
-| **Android** | `adb install -r GlideDesk-1.1.1.apk` or direct download from [Releases](https://github.com/glidedesk/glidedesk/releases/latest) |
+| **macOS** | `curl -fsSL https://raw.githubusercontent.com/glidedesk/GlideDesk/main/mac/scripts/install.sh \| bash` |
+| **Windows** | `irm https://raw.githubusercontent.com/glidedesk/GlideDesk/main/windows/scripts/install.ps1 \| iex` |
+| **Linux** | `curl -fsSL https://raw.githubusercontent.com/glidedesk/GlideDesk/main/linux/scripts/install.sh \| bash` |
+| **Android** | `adb install -r GlideDesk-1.1.1.apk` or direct download from [Releases](https://github.com/glidedesk/GlideDesk/releases/latest) |
 
 ---
 
 ### 📦 Primary Repository
 
-- **[`glidedesk/glidedesk`](https://github.com/glidedesk/glidedesk)** — Main codebase, native OS runners, background daemons, and Android companion.
+- **[`glidedesk/GlideDesk`](https://github.com/glidedesk/GlideDesk)** — Main codebase, native OS runners, background daemons, and Android companion.
 
 ---
 
